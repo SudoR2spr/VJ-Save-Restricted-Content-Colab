@@ -23,7 +23,7 @@ class Bot(Client):
     async def start(self):
             
         await super().start()
-        print('Bot Started Modified By 𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭')
+        print('✔️ Bot Started Modified By 𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭')
 
     async def stop(self, *args):
 
