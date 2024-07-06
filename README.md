@@ -15,7 +15,7 @@
 
 ## Deploy To Google Colab
 
-<a href="https://colab.research.google.com/github/SudoR2spr/VJ-Save-Restricted-Content-Colab/blob/main/VJ-WOODcraft-Colab" target="_blank">
+<a href="https://colab.research.google.com/github/SudoR2spr/VJ-Save-Restricted-Content-Colab/blob/master/WOODcraft/VJ-WOODcraft-Colab.ipynb/" target="_blank">
   <img src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/VJ-WOODcraft-Colab.png" alt="Deploy To Google Colab" style="width:150px;"/>
 </a>
 
