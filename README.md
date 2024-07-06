@@ -1,4 +1,4 @@
-# VJ Save Restricted Bot [![License: MIT][License-Badge]](LICENSE.md)
+# VJ Save Restricted Bot [![License: MIT][License-Badge]](LICENSE)
 
 <!-- WOODcraft -->
 <p align="center">
