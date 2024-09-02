@@ -4,7 +4,7 @@ pyromod==1.5
 tgcrypto
 pymongo[srv]==3.12.3
 Jinja2
-werkzeug
+Werkzeug==2.3.7
 itsdangerous
 Flask==3.0.3
 gunicorn==20.1.0
