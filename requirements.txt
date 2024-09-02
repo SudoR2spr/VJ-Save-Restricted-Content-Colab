@@ -2,7 +2,7 @@ pyrogram
 pyromod==1.5
 tgcrypto
 pymongo[srv]==3.12.3
-Jinja2==3.0.3
+Jinja2
 werkzeug
 itsdangerous
 Flask==3.0.3
