@@ -15,7 +15,7 @@ COPY . .
 EXPOSE 8080
 
 # Command to run on server
-CMD ["gunicorn", "app:app && python3 bot.py"]
+CMD gunicorn app:app & python3 bot.py
 
 
 #FROM python:3.10.8-slim-buster
