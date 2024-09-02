@@ -4,6 +4,6 @@ tgcrypto
 pymongo[srv]==3.12.3
 Jinja2==3.0.3
 werkzeug
-itsdangerous==2.0.1
+itsdangerous
 Flask==3.0.3
 gunicorn==20.1.0
