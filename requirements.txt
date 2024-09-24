@@ -1,5 +1,5 @@
-pyrogram
-pyromod==1.5
+# pyrogram
+pyrofork
 tgcrypto
 pymongo[srv]==3.12.3
 Flask==1.1.2
